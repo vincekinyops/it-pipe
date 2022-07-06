@@ -166,3 +166,5 @@ export function pipe (first: any, ...rest: any[]): any {
 
   return rawPipe(...fns)
 }
+
+export default {}
